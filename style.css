@@ -1,0 +1,13 @@
+body {background-color: #CCD5AE;}
+
+footer {background-color: #D4A373}
+
+header {background-color: #D4A373}
+
+.hf {
+    font-family:'Courier New', Courier, monospace;
+}
+
+a:hover {
+    background-color: #FEFAE0
+}
