@@ -11,3 +11,11 @@ header {background-color: #D4A373}
 a:hover {
     background-color: #FEFAE0
 }
+
+.container2 {
+    margin: 5px;
+}
+
+.title {
+    font-weight: bold;
+}
